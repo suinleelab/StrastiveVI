@@ -1,2 +1,1 @@
-# StrastiveVI#
-
+# StrastiveVI
